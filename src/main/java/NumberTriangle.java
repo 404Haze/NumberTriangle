@@ -64,7 +64,7 @@ public class NumberTriangle {
      * Note: a NumberTriangle contains at least one value.
      */
     public void maxSumPath() {
-        // for fun [not for credit]:
+        // for fun [not for credit]: - no thanks ;D
     }
 
 
